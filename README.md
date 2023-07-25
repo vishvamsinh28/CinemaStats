@@ -28,7 +28,6 @@ CinemaStats is a movie rating website that allows users to search, rate, and rev
 
 1. Clone the repository to your local machine:
 
-
 2. Install the required dependencies:
 
 ```
@@ -43,6 +42,7 @@ CLOUDINARY_CLOUD_NAME=your-cloudinary-cloud-name
 CLOUDINARY_KEY=your-cloudinary-api-key
 CLOUDINARY_SECRET=your-cloudinary-secret
 MAP_API=your-mapbox-api
+MONGOURL=your-mongodb-url
 ```
 
 4. Start the server:
@@ -67,6 +67,6 @@ This website uses the following third-party services:
 
 ## Acknowledgements
 
-* The Express and MongoDB documentation was helpful in building the website.
-* The Bootstrap CSS framework was used for styling the website.
-* Stack Overflow was helpful in solving some issues and errors during development.
+- The Express and MongoDB documentation was helpful in building the website.
+- The Bootstrap CSS framework was used for styling the website.
+- Stack Overflow was helpful in solving some issues and errors during development.
